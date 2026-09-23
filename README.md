@@ -45,7 +45,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ghing21?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&theme=tokyo-night&config.timezone=Europe%2FCopenhagen" alt="GitHub Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghing21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ghing21&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180"/>
 </p>
 
 ---
